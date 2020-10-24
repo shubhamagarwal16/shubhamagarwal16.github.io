@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.63186839.chunk.css",
+    "main.js": "/static/js/main.dd6901d1.chunk.js",
+    "main.js.map": "/static/js/main.dd6901d1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.538a3dd4.js",
+    "runtime-main.js.map": "/static/js/runtime-main.538a3dd4.js.map",
+    "static/js/2.a8ce9374.chunk.js": "/static/js/2.a8ce9374.chunk.js",
+    "static/js/2.a8ce9374.chunk.js.map": "/static/js/2.a8ce9374.chunk.js.map",
+    "0dc568d46e59e55786cc.worker.js": "/0dc568d46e59e55786cc.worker.js",
+    "0dc568d46e59e55786cc.worker.js.LICENSE.txt": "/0dc568d46e59e55786cc.worker.js.LICENSE.txt",
+    "0dc568d46e59e55786cc.worker.js.map": "/0dc568d46e59e55786cc.worker.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5db91eba6a9eb9bfd0ce773294a74ab3.js": "/precache-manifest.5db91eba6a9eb9bfd0ce773294a74ab3.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.63186839.chunk.css.map": "/static/css/main.63186839.chunk.css.map",
+    "static/js/2.a8ce9374.chunk.js.LICENSE.txt": "/static/js/2.a8ce9374.chunk.js.LICENSE.txt",
+    "static/media/GalaxyStore_English.png": "/static/media/GalaxyStore_English.b3f0d10f.png",
+    "static/media/Logo_SA.png": "/static/media/Logo_SA.71926df2.png",
+    "static/media/Shubham_Agarwal.pdf": "/static/media/Shubham_Agarwal.18c8dcb8.pdf",
+    "static/media/avatar.jpg": "/static/media/avatar.c20f3c66.jpg",
+    "static/media/google-play-badge.png": "/static/media/google-play-badge.db9b21a1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.538a3dd4.js",
+    "static/js/2.a8ce9374.chunk.js",
+    "static/css/main.63186839.chunk.css",
+    "static/js/main.dd6901d1.chunk.js"
+  ]
+}
